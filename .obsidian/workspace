@@ -1,0 +1,110 @@
+{
+  "main": {
+    "id": "31fedc25263bafd8",
+    "type": "split",
+    "children": [
+      {
+        "id": "627e0b500598a61e",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "System-Blindness.md",
+            "mode": "preview"
+          }
+        },
+        "group": "6dfac38eef6751bf"
+      },
+      {
+        "id": "64560769a6a33b50",
+        "type": "leaf",
+        "state": {
+          "type": "graph",
+          "state": {}
+        },
+        "group": "6dfac38eef6751bf"
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e98a8282298c684c",
+    "type": "split",
+    "children": [
+      {
+        "id": "a0c8e5569161d929",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e7c29d6477176174",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "bac23fd5de8a5792",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#Articles",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "531dde7b5982560e",
+    "type": "split",
+    "children": [
+      {
+        "id": "026570f8742ff394",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3f47657426b368e4",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "active": "64560769a6a33b50",
+  "lastOpenFiles": [
+    "System-Blindness.md",
+    "Theory X & Y.md",
+    "system-blindness.md",
+    "Flux Episode 1.md",
+    "Slack (Systemic).md",
+    "Mind/the no-mind thesis.md",
+    "Artificial Intelligence.md",
+    "Mind/body fallacy.md",
+    "Pandemic.md",
+    "Responding to change over following a plan.md"
+  ]
+}
