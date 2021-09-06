@@ -7,8 +7,11 @@
         "id": "627e0b500598a61e",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "The Compendium Cards.md",
+            "mode": "preview"
+          }
         },
         "group": "6dfac38eef6751bf"
       },
@@ -16,8 +19,11 @@
         "id": "64560769a6a33b50",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "The Compendium Cards.md",
+            "mode": "source"
+          }
         },
         "group": "6dfac38eef6751bf"
       }
@@ -75,6 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "The Compendium Cards.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -93,15 +100,15 @@
   },
   "active": "64560769a6a33b50",
   "lastOpenFiles": [
+    "The Compendium Cards.md",
+    "Alex Komoroske.md",
+    "🌀 Flux Review.md",
+    "Ade Oshineye.md",
+    "Apprenticeship Patterns.md",
+    "🌀 Flux Collective.md",
     "Untitled.md",
     "🌀 Flux Episode 1.md",
     "System-Blindness.md",
-    "Theory X & Y.md",
-    "system-blindness.md",
-    "Flux Episode 1.md",
-    "Slack (Systemic).md",
-    "Mind/the no-mind thesis.md",
-    "Artificial Intelligence.md",
-    "Mind/body fallacy.md"
+    "Theory X & Y.md"
   ]
 }
