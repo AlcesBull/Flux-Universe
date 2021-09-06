@@ -7,11 +7,8 @@
         "id": "627e0b500598a61e",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "System-Blindness.md",
-            "mode": "preview"
-          }
+          "type": "empty",
+          "state": {}
         },
         "group": "6dfac38eef6751bf"
       },
@@ -19,7 +16,7 @@
         "id": "64560769a6a33b50",
         "type": "leaf",
         "state": {
-          "type": "graph",
+          "type": "empty",
           "state": {}
         },
         "group": "6dfac38eef6751bf"
@@ -96,6 +93,8 @@
   },
   "active": "64560769a6a33b50",
   "lastOpenFiles": [
+    "Untitled.md",
+    "🌀 Flux Episode 1.md",
     "System-Blindness.md",
     "Theory X & Y.md",
     "system-blindness.md",
@@ -103,8 +102,6 @@
     "Slack (Systemic).md",
     "Mind/the no-mind thesis.md",
     "Artificial Intelligence.md",
-    "Mind/body fallacy.md",
-    "Pandemic.md",
-    "Responding to change over following a plan.md"
+    "Mind/body fallacy.md"
   ]
 }

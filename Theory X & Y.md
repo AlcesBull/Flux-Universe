@@ -1,1 +1,0 @@
-https://en.wikipedia.org/wiki/Theory_X_and_Theory_Y
