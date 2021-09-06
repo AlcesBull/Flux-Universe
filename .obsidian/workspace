@@ -7,11 +7,8 @@
         "id": "627e0b500598a61e",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "The Compendium Cards.md",
-            "mode": "preview"
-          }
+          "type": "empty",
+          "state": {}
         },
         "group": "6dfac38eef6751bf"
       },
@@ -19,11 +16,8 @@
         "id": "64560769a6a33b50",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "The Compendium Cards.md",
-            "mode": "source"
-          }
+          "type": "empty",
+          "state": {}
         },
         "group": "6dfac38eef6751bf"
       }
@@ -81,7 +75,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "The Compendium Cards.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,15 +93,15 @@
   },
   "active": "64560769a6a33b50",
   "lastOpenFiles": [
+    "The S Curve.md",
+    "problem space.md",
+    "🌀 Flux Episode 2.md",
     "The Compendium Cards.md",
+    "🌀 Flux Episode 1.md",
     "Alex Komoroske.md",
     "🌀 Flux Review.md",
     "Ade Oshineye.md",
     "Apprenticeship Patterns.md",
-    "🌀 Flux Collective.md",
-    "Untitled.md",
-    "🌀 Flux Episode 1.md",
-    "System-Blindness.md",
-    "Theory X & Y.md"
+    "🌀 Flux Collective.md"
   ]
 }
