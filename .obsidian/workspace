@@ -6,34 +6,23 @@
       {
         "id": "627e0b500598a61e",
         "type": "leaf",
+        "dimension": 48.78947368421053,
         "state": {
-<<<<<<< HEAD
-          "type": "empty",
-          "state": {}
-=======
           "type": "markdown",
           "state": {
-            "file": "The S Curve.md",
-            "mode": "preview"
+            "file": "Intrinsic motivation emerges from within a system.md",
+            "mode": "source"
           }
->>>>>>> EP2
         },
         "group": "6dfac38eef6751bf"
       },
       {
         "id": "64560769a6a33b50",
         "type": "leaf",
+        "dimension": 51.21052631578947,
         "state": {
-<<<<<<< HEAD
-          "type": "empty",
+          "type": "graph",
           "state": {}
-=======
-          "type": "markdown",
-          "state": {
-            "file": "The S Curve.md",
-            "mode": "source"
-          }
->>>>>>> EP2
         },
         "group": "6dfac38eef6751bf"
       }
@@ -91,10 +80,6 @@
             "state": {
               "type": "backlink",
               "state": {
-<<<<<<< HEAD
-=======
-                "file": "The S Curve.md",
->>>>>>> EP2
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,15 +98,15 @@
   },
   "active": "64560769a6a33b50",
   "lastOpenFiles": [
-    "The S Curve.md",
-    "problem space.md",
-    "🌀 Flux Episode 2.md",
+    "Intrinsic motivation emerges from within a system.md",
+    "Intrinsic motivation is sacred; extrinsic motivation is profane.md",
+    "Sacred things are infinite, and profane things are finite.md",
+    "Untitled.md",
+    "gradients create momentum.md",
+    "Asymmetries don't need to be strong to have huge effects.md",
     "The Compendium Cards.md",
-    "🌀 Flux Episode 1.md",
-    "Alex Komoroske.md",
     "🌀 Flux Review.md",
     "Ade Oshineye.md",
-    "Apprenticeship Patterns.md",
-    "🌀 Flux Collective.md"
+    "🌀 Flux Episode 2.md"
   ]
 }

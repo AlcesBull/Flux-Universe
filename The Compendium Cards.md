@@ -12,3 +12,4 @@ Alex has published a more in depth history [here](https://medium.com/@komorama/t
 ### Cards
 [[Use a diversity of lenses]]
 [[Lenses mine insights from information]]
+[[Asymmetries don't need to be strong to have huge effects]]
