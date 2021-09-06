@@ -7,8 +7,16 @@
         "id": "627e0b500598a61e",
         "type": "leaf",
         "state": {
+<<<<<<< HEAD
           "type": "empty",
           "state": {}
+=======
+          "type": "markdown",
+          "state": {
+            "file": "The S Curve.md",
+            "mode": "preview"
+          }
+>>>>>>> EP2
         },
         "group": "6dfac38eef6751bf"
       },
@@ -16,8 +24,16 @@
         "id": "64560769a6a33b50",
         "type": "leaf",
         "state": {
+<<<<<<< HEAD
           "type": "empty",
           "state": {}
+=======
+          "type": "markdown",
+          "state": {
+            "file": "The S Curve.md",
+            "mode": "source"
+          }
+>>>>>>> EP2
         },
         "group": "6dfac38eef6751bf"
       }
@@ -75,6 +91,10 @@
             "state": {
               "type": "backlink",
               "state": {
+<<<<<<< HEAD
+=======
+                "file": "The S Curve.md",
+>>>>>>> EP2
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
