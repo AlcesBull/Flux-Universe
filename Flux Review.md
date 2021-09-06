@@ -18,5 +18,5 @@
 
 ### Episodes
 
-[[🌀 Flux Episode 1]]
-[[🌀 Flux Episode 2]]
+[[Flux Episode 1]]
+[[Flux Episode 2]]

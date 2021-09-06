@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Intrinsic motivation emerges from within a system.md",
+            "file": "Flux Episode 2.md",
             "mode": "source"
           }
         },
@@ -21,8 +21,11 @@
         "type": "leaf",
         "dimension": 51.21052631578947,
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Flux Episode 2.md",
+            "mode": "source"
+          }
         },
         "group": "6dfac38eef6751bf"
       }
@@ -80,6 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Flux Episode 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,15 +102,15 @@
   },
   "active": "64560769a6a33b50",
   "lastOpenFiles": [
+    "🌀 Flux Episode 2.md",
+    "🌀 Flux Review.md",
+    "🌀 Flux Episode 1.md",
     "Intrinsic motivation emerges from within a system.md",
     "Intrinsic motivation is sacred; extrinsic motivation is profane.md",
     "Sacred things are infinite, and profane things are finite.md",
     "Untitled.md",
     "gradients create momentum.md",
     "Asymmetries don't need to be strong to have huge effects.md",
-    "The Compendium Cards.md",
-    "🌀 Flux Review.md",
-    "Ade Oshineye.md",
-    "🌀 Flux Episode 2.md"
+    "The Compendium Cards.md"
   ]
 }
