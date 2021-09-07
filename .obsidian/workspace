@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "README.md",
+            "file": "Axiomata/Axiomata.md",
             "mode": "preview"
           }
         },
@@ -19,11 +19,8 @@
         "id": "64560769a6a33b50",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "README.md",
-            "mode": "source"
-          }
+          "type": "graph",
+          "state": {}
         },
         "group": "46102d8ec440f1e2"
       }
@@ -81,7 +78,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,15 +96,15 @@
   },
   "active": "64560769a6a33b50",
   "lastOpenFiles": [
+    "Axiomata.md",
+    "Ade Oshineye.md",
     "README.md",
     "Leadership is an enabling function.md",
-    "Axiomata.md",
     "care about the system.md",
     "Motivated individuals tend to take up slack.md",
     "Leadership is not information-passing.md",
     "problem space.md",
     "The S Curve.md",
-    "Flux Episode 2.md",
-    "Untitled.md"
+    "Flux Episode 2.md"
   ]
 }
