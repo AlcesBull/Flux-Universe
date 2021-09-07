@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "The Compendium Cards.md",
+            "file": "Axiomata.md",
             "mode": "source"
           }
         },
@@ -21,7 +21,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "The Compendium Cards.md",
+            "file": "Axiomata.md",
             "mode": "source"
           }
         },
@@ -81,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "The Compendium Cards.md",
+                "file": "Axiomata.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,6 +100,8 @@
   },
   "active": "64560769a6a33b50",
   "lastOpenFiles": [
+    "Axiomata.md",
+    "Untitled.md",
     "The Compendium Cards.md",
     "Use a diversity of lenses.md",
     "Dimitri Glazkov.md",
@@ -107,8 +109,6 @@
     "🌀 Flux Episode 2.md",
     "🌀 Flux Review.md",
     "🌀 Flux Episode 1.md",
-    "Intrinsic motivation emerges from within a system.md",
-    "Intrinsic motivation is sacred; extrinsic motivation is profane.md",
-    "Sacred things are infinite, and profane things are finite.md"
+    "Intrinsic motivation emerges from within a system.md"
   ]
 }
