@@ -1,0 +1,8 @@
+[[Axiomata]]
+
+
+When a system lacks both standards of practice for its stated services  _and_ a clear definition of success, an idea like "purpose > profit" becomes incredibly difficult to put into practice.
+
+This might not be a disastrous situation if you have a membership core that really **cares first about the system**. Caring first about the system means running into these unknowns and generating insights and scaffolding to make things more tractable. It means creating and offering standards where there aren't any, and improving standards where they don't serve growth, alignment, and the purpose. It means seeking feedback on how you're meeting the existing standards, and being a kind, but honest source of feedback on how others are doing. Caring means emphasizing the health, progress, and effectiveness of the collective before the individual.
+
+Caring first about the system is in direct contrast to **caring first about yourself**. Caring first about yourself means acting in ways that spoof the normal modes of interaction (such as in debate, conversation, feedback, evaluation, pay) while actually pursuing hidden, self-serving motives. It means running into unclear places and avoiding standards, and running into places where standards exist and undermining them (often presenting as "I'm an exception to the norm here because..."). It means leveraging [logical fallacies](https://www.logicalfallacies.org) to avoid change and growth, or to make arguments for advancements in power or pay that aren't clearly anchored to the purpose. Caring first about the self means making it the system's job to ensure your comfort, rather than embracing discomfort to advance the system.
