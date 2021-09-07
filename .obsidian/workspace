@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Dimitri Glazkov.md",
-            "mode": "preview"
+            "file": "The Compendium Cards.md",
+            "mode": "source"
           }
         },
         "group": "46102d8ec440f1e2"
@@ -21,7 +21,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Dimitri Glazkov.md",
+            "file": "The Compendium Cards.md",
             "mode": "source"
           }
         },
@@ -81,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Dimitri Glazkov.md",
+                "file": "The Compendium Cards.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,6 +100,8 @@
   },
   "active": "64560769a6a33b50",
   "lastOpenFiles": [
+    "The Compendium Cards.md",
+    "Use a diversity of lenses.md",
     "Dimitri Glazkov.md",
     "Flux Episode 2.md",
     "🌀 Flux Episode 2.md",
@@ -107,8 +109,6 @@
     "🌀 Flux Episode 1.md",
     "Intrinsic motivation emerges from within a system.md",
     "Intrinsic motivation is sacred; extrinsic motivation is profane.md",
-    "Sacred things are infinite, and profane things are finite.md",
-    "Untitled.md",
-    "gradients create momentum.md"
+    "Sacred things are infinite, and profane things are finite.md"
   ]
 }
